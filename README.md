@@ -1,4 +1,7 @@
 # student_management_system_in_django
+
+# 学生管理系统
+
 student_management_system_in_django
 
 <h2>After Part 10 Link <a href="https://github.com/hackstarsj/student_management_system_part_11">View</a></h2> 
